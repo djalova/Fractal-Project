@@ -1,0 +1,11 @@
+Jiarui Wang, jwang158@jhu.edu ; Daniel Jalova, djalova1@jhu.edu
+
+The program is able two draw 3 fractals, the Mandelbrot fractal and two types of Julia set fractals. The user is able
+to traverse the fractal with W,A,S,D and can zoom in and zoom out with Z and X respectively. The reason we chose
+this interface over being able to draw a region on the screen is because it is more convenient when the user wants to
+move to a different region at the same zoom level. The user is also able to save their images. There are also 3 different
+color schemes for drawing the fractal. The user can also change the quality of the fractal image if he or she wishes to
+make the fractal more or less complex.
+
+Run main to execute the program.
+Install gtkmm-3.0 is needed if you want to recompile the program.
